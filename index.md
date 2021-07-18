@@ -7,6 +7,6 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Rajat Bansal, Company Secretaries
 
 Hi ,this is rajat bansal here for your different services as mentioned below.
