@@ -1,9 +1,11 @@
 ---
-title: "Mergers"
+title: "Audit"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 weight: 4
 ---
+
+Audit exercise with respect to Secretarial Audit of Public, Private and Listed Companies.
 
 Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
