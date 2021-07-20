@@ -3,6 +3,7 @@ exclude: ['README.md']
 permalink: pretty
 title: 'Rajat Bansal & Associates'
 
+mailchimp-list: "https://us6.list-manage.com/contact-form?u=0a8c3704108211c289422c0f6&form_id=2d96023bc70adb7867ff1913fd42c2cc"
 google_analytics_id: null
 homepage:
   show_call_box: true
