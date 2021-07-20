@@ -7,6 +7,5 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: true
 ---
 
-# Rajat Bansal, Company Secretaries
-
-Hi ,this is rajat bansal here for your different services as mentioned below.
+# Rajat Bansal & Associates
+Rajat Bansal & Associates is a Firm of Company Secretaries, established in 2021, whose aim is to provide quality services for its clients. Mr Rajat Bansal ,Associate member of institute of Company secretaries of India is the Founder of Rajat Bansal and associates(RBA).
