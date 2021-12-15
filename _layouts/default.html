@@ -20,6 +20,138 @@
   <meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}" />
 </head>
 <body class='page {{page.bodyClass}}'>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.8.2.js"></script>
+
+  <style type="text/css">
+    #overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #000;
+    filter:alpha(opacity=70);
+    -moz-opacity:0.7;
+    -khtml-opacity: 0.7;
+    opacity: 0.7;
+    z-index: 100;
+    display: none;
+    }
+    .cnt223 a{
+    text-decoration: none;
+    }
+    .popup{
+    width: 100%;
+    margin: 0 auto;
+    display: none;
+    
+    z-index: 101;
+    }
+    .cnt223{
+    min-width: 600px;
+    width: 600px;
+    min-height: 150px;
+    margin: 100px auto;
+    background: #f3f3f3;
+    position: relative;
+    z-index: 103;
+    padding: 15px 35px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px #000;
+    }
+    .cnt223 p{
+    clear: both;
+        color: #555555;
+        /* text-align: justify; */
+        font-size: 15px;
+        font-family: sans-serif;
+    }
+    .cnt223 p a{
+    color: #0000b3;
+    font-weight: bold;
+    align: centre;
+    position: center;
+    float : centre;
+    }
+    .cnt223 .x{
+    float: right;
+    height: 35px;
+    left: 22px;
+    position: relative;
+    top: -25px;
+    width: 34px;
+    }
+    .cnt223 .x:hover{
+    cursor: pointer;
+    }
+    </style>
+    <script type='text/javascript'>
+    
+      function createCookie(name,value,days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days*24*60*60*1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + value + expires + "; path=/";
+    }
+    function readCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0;i < ca.length;i++) {
+            var c = ca[i];
+            while (c.charAt(0)==' ') c = c.substring(1,c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+        }
+        return null;
+    }
+    function eraseCookie(name) {
+        createCookie(name,"",-1);
+    }
+    
+    if(readCookie('cookie-notice-dismissed')=='true') {
+    
+    } else {
+      var overlay = $('<div id="overlay"></div>');
+      overlay.show();
+      overlay.appendTo(document.body);
+      $('.popup').show();
+      console.log("hi");
+    }
+    
+    
+    
+    $(function(){
+    
+    $('.close').click(function(){
+    createCookie('cookie-notice-dismissed','true',31);
+    $('.popup').hide();
+    overlay.appendTo(document.body).remove();
+    {% comment %} location.reload(); {% endcomment %}
+    return false;
+    
+    });
+    
+    
+    
+    
+    
+    });
+    </script>
+    <div class='popup'>
+    <div class='cnt223'>
+    <h1>Disclaimer</h1>
+    <p>
+    This  website pertains to Rajat Bansal & Associates, company secretaries firm and  is never sent unsolicited to any person or professional. This website is meant solely for the purpose of information and not for the purpose of advertising and solicitation of any assignments or professional engagements in any manner.
+    Rajat & Associates hereby declares that the contents of this site are true to the best of their knowledge and belief and are in conformity with Guidelines for Advertisement by Company Secretary in Practice as per Guidelines issued by the ICSI.
+    The contents or claims of the website are the sole and exclusive responsibility of Rajat Bansal & Associates and the Institute of Company Secretaries of India does not own any responsibility whatsoever for such contents or claims by Rajat Bansal & Associates. The content of this website is for informational purposes only and Rajat Bansal & Associates shall not be liable for consequences of any action taken by relying on the material/information provided on this website.
+    <br/>
+    <a href='' class='close'>Agree</a>
+    </p>
+    </div>
+    </div>
+    
   {% include main-menu-mobile.html %}
   <div id="wrapper" class="wrapper">
     {% include header.html headerClass='header-extra' %}
