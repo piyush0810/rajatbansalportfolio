@@ -1,4 +1,4 @@
-baseurl: ''
+baseurl: 'rajatbansalportfolio/'
 exclude: ['README.md']
 permalink: pretty
 title: 'Rajat Bansal & Associates'
