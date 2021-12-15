@@ -110,19 +110,20 @@
         createCookie(name,"",-1);
     }
     
-    if(readCookie('cookie-notice-dismissed')=='true') {
     
-    } else {
-      var overlay = $('<div id="overlay"></div>');
-      overlay.show();
-      overlay.appendTo(document.body);
-      $('.popup').show();
-      console.log("hi");
-    }
     
     
     
     $(function(){
+      if(readCookie('cookie-notice-dismissed')=='true') {
+    
+      } else {
+        var overlay = $('<div id="overlay"></div>');
+        overlay.show();
+        overlay.appendTo(document.body);
+        $('.popup').show();
+        console.log("hi");
+      }
     
     $('.close').click(function(){
     createCookie('cookie-notice-dismissed','true',31);
