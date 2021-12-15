@@ -27,10 +27,10 @@ seo:
 collections:
   services:
     output: true
-    permalink: /rajatbansalportfolio/services/:path/
+    permalink: /services/:path/
   team:
     output: true
-    permalink: /rajatbansalportfolio/team/:path/
+    permalink: /team/:path/
 
 defaults:
   - scope:
