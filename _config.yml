@@ -28,9 +28,9 @@ collections:
   services:
     output: true
     permalink: /services/:path/
-  team:
+  knowledgebase:
     output: true
-    permalink: /team/:path/
+    permalink: /knowledgebase/:path/
 
 defaults:
   - scope:

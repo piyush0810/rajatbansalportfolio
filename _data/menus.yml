@@ -3,7 +3,7 @@ main:
     url: "/services/"
     weight: 2
   - name: "KnowledgeBase"
-    url: "/knowledgebase/"
+    url: "/knowledgebases/"
     weight: 3
   - name: "About"
     url: "/about/"
