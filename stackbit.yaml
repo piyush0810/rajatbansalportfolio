@@ -300,43 +300,10 @@ models:
         name: intro_image_hide_on_mobile
         label: Intro Image Hide On Mobile
         description: Hide the intro image on mobile screen sizes
-  team:
-    type: page
-    label: Team
-    folder: team
-    exclude: _index.md
-    fields:
-      - type: string
-        name: title
-        label: Title
-      - type: date
-        name: date
-        label: Date
-      - type: image
-        name: image
-        label: Image
-      - type: string
-        name: jobtitle
-        label: Job Title
-      - type: string
-        name: linkedinurl
-        label: Linkedin URL
-      - type: boolean
-        name: draft
-        label: Draft
-      - type: boolean
-        name: featured
-        label: Featured
-      - type: number
-        name: weight
-        label: Weight
-      - type: boolean
-        name: promoted
-        label: Promoted
-  teams:
+  knowledgebases:
     type: page
     label: Team Overview
-    file: team/_index.md
+    file: knowledgebases/_index.md
     singleInstance: true
     fields:
       - type: string
