@@ -8,5 +8,32 @@
     "name": "Twitter",
     "link": "https://twitter.com/zerostaticio",
     "image": "images/social/twitter.svg"
+  },
+  {
+    "name": "Telegram",
+    "link": "https://t.me/RajatBansal101",
+    "image": "images/social/telegram.png"
+  },
+  {
+    "name": "Linkedin",
+    "link": "https://www.linkedin.com/in/csrajatbansal",
+    "image": "images/social/linkedin.png"
+  },
+  {
+    "name": "Whatsapp",
+    "link": "https://wa.me/message/W4NB64XIA5VVP1",
+    "image": "images/social/whatsapp.png"
+  },
+  {
+    "name": "Mail",
+    "link": "mailto:csrajatbansal@gmail.com",
+    "image": "images/social/gmail.png"
   }
+  
+
+  
+
+  
+
+
 ]
