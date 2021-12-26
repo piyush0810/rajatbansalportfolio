@@ -4,48 +4,15 @@ date: 2018-02-22T17:01:34+07:00
 layout: 'page'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
 
-## Ne verba patulosque numen vix libet
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## What we deal in:
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+We are a Practicing Company Secretary firm based in Delhi handling various legal aspects of Companies, OPCs, Section 8 Companies & LLPs across different portfolios of businesses.
+We have in-depth knowledge of handling Company Incorporation, Company-based legal compliances, Listing Compliances, FEMA & RBI Compliances, POSH Compliances, Trademark Registration, Funding aspects, and Compliance & Funding aspects Start-Ups.
+We undertake Company, LLP, OPC & Section 8 company incorporation, compliance services related to all types of companies, advisory and consultancy services on FEMA & RBI Regulations, Trademark Registration services, POSH Consultancy services and other allied services.
+Moreover, we provide a specialized and customized service for start-ups on a legal front and its funding aspects based on its EcoSystem and its requirements.
+## What drives us:
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+At Rajat Bansal & Associates, we practice the compliance of the law in the most transparent means, which is the key to growth & success for any organization. Towards our dream of promoting good corporate governance, we ensure that every organization associated with us complies with relevant legislation and regulation timely. We assume the responsibility of updating our clients regularly regarding their legal obligations and most efficiently counsel their further course of action.
+We act professionally, with integrity and competence. We are committed to delivering our assignments timely while maintaining the highest professional standards and business ethics to add value to clientele business. Rajat Bansal & Associates offers a one-stop solution for all corporate compliances and have a pro-active approach to issue resolution for our clients. We are dedicated to assisting entrepreneurs to easily start and run their businesses successfully in a legitimate manner, at an affordable cost.
