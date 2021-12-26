@@ -2,7 +2,7 @@ main:
   - name: "Services"
     url: "/services/"
     weight: 2
-  - name: "KnowledgeBase"
+  - name: "Knowledge Base"
     url: "/knowledgebase/"
     weight: 3
   - name: "About"
