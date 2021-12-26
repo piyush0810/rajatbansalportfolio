@@ -17,4 +17,4 @@ Moreover, we provide a specialized and customized service for start-ups on a leg
 
 At Rajat Bansal & Associates, we practice the compliance of the law in the most transparent means, which is the key to growth & success for any organization. Towards our dream of promoting good corporate governance, we ensure that every organization associated with us complies with relevant legislation and regulation timely. We assume the responsibility of updating our clients regularly regarding their legal obligations and most efficiently counsel their further course of action.
 
-We act professionally, with integrity and competence. We are committed to delivering our assignments timely while maintaining the highest professional standards and business ethics to add value to clientele business. 
+
