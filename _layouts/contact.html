@@ -12,12 +12,13 @@ bodyClass: page-contact
                 {% include call.html show_button=false %}
                 <div class="content mt-4">
                     {{content}}
-                    <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
-                        <img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.whatsappqr | relative_url }}" />
-                      </div>
+                    
 
                 </div>
             </div>
+            <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+                        <img alt={{ page.title }} class="intro-image{% if page.intro_image_absolute %} intro-image-absolute{% endif %}{% if page.intro_image_hide_on_mobile %} intro-image-hide-mobile{% endif %}" src="{{ page.whatsappqr | relative_url }}" />
+                      </div>
         <form action="{{site.mailchimp-list}}" method="post" name="mc-embedded-subscribe-form" class="wj-contact-form validate" target="_blank" novalidate>
         <div class="mc-field-group">
         <input type="submit" value="Contact Us" name="subscribe" class="heart">
