@@ -3,6 +3,7 @@ title: Contact
 layout: contact
 bodyClass: page-contact
 whatsappqr: "images/social/whatsappqr.jpeg"
+intro_image_hide_on_mobile:true
 ---
 
 #Wanna contact us ?
