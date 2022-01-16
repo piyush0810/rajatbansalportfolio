@@ -6,7 +6,7 @@ layout: 'page'
 
 
 
-### ABOUT THE FIRM
+# ABOUT THE FIRM
 
 We are a Practicing Company Secretary firm based in Delhi handling various legal aspects of Companies, OPCs, Section 8 Companies & LLPs across different portfolios of businesses.
 We have in-depth knowledge of handling Company Incorporation, Company-based legal compliances, Listing Compliances, FEMA & RBI Compliances, POSH Compliances, Trademark Registration, Funding aspects, and Compliance & Funding aspects Start-Ups.
