@@ -6,3 +6,7 @@ weight: 3
 ---
 
 Advisory and Registration Services in domain of IPR which includes copyright & trademark to ensure protection of client's intellectual property.
+
+
+
+![Accounting Services](/images/IP_Services.jpg)
