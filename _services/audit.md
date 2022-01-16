@@ -36,3 +36,6 @@ SCOPE OF SECRETARIAL AUDIT
 -> Competition Act, 2002
 
 -> Any other industry specific laws applicable to the Client Company.
+
+
+![Accounting Services](/images/audit_services.jpg)
